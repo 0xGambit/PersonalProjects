@@ -1,5 +1,6 @@
+Demo Video 
+
+![Red Bold Finance YouTube Thumbnail-3](https://github.com/user-attachments/assets/6ad7d5df-323c-44dc-838d-c0107b2139d0)
 
 
-https://github.com/user-attachments/assets/48752b0b-1245-45e9-a095-b5e3551c7b12
-
-Live link -> https://fakestresume.netlify.app/
+[Live link](https://fakestresume.netlify.app/)
